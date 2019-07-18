@@ -52,6 +52,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/troyrowan
+-icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/troy-rowan-71a411143/
+-icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-5347-7695
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -68,4 +74,4 @@ user_groups:
 #- Visitors
 ---
 
-Troy Rowan is a PhD candidate in the MU Animal Genomics group at the University of Missouri. He works at the intersection of population genetics, quantitative genetics, genomics, and animal breeding with the goal of improving livestock efficiency and sustainability. His major research uses novel applications of genome-wide linear mixed models to identify signatures of selection and local adaptation in cattle populations.
+I am a PhD candidate in the MU Animal Genomics group at the University of Missouri. My research exists at the intersection of population genetics, quantitative genetics, genomics, and animal breeding; all with the ultimate goal of improving livestock efficiency and sustainability. My major PhD project uses novel applications of genome-wide linear mixed models to identify signatures of selection and local adaptation in cattle populations. I'm also interested in how using imputed rare variation affects the accuracy of genomic predictions and estimates of heritability.
