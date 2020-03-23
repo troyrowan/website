@@ -19,8 +19,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Graduate Research Assistant"
-  company = "University of Missouri\nMU Animal Genomics Group"
-  company_url = ""
+  company = "University of Missouri: Animal Genomics Group (Dr. Jared Decker)"
+  company_url = "http://web.missouri.edu/~deckerje/"
   location = "Columbia, Missouri, USA"
   date_start = "2016-08-01"
   date_end = ""
@@ -33,9 +33,23 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  title = "Visiting Graduate Student"
+  company = "Roslin Institute: AlphaGenes Group (Dr. John Hickey)"
+  company_url = "https://alphagenes.roslin.ed.ac.uk/wp/"
+  location = "Edinburgh, Scotland, UK"
+  date_start = "2019-08-01"
+  date_end = "2019-12-17"
+	description = """
+  University of Missouri Brown Fellowship
+
+  * Performed simulations for novel selection mapping methods
+  * Stochastic and gene drop simulation methods
+  """
+
+[[experience]]
   title = "Undergraduate Research Assistant"
   company = """Creighton University: Fassbinder-Orth Lab"""
-  company_url = ""
+  company_url = "https://carolfassbinderorth.weebly.com/"
   location = "Omaha, Nebraska, USA"
   date_start = "2015-01-01"
   date_end = "2016-05-30"

@@ -1,0 +1,3 @@
+blogdown::serve_site()
+?blogdown::serve_site
+blogdown::serve_site("/home/tnr343/My_Website/config/_default/")
